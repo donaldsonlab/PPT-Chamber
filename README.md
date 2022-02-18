@@ -12,7 +12,7 @@ cutters are located in the [DXF}(dxf) directory. To optimize the nesting of part
 [STL}(STL) folder along with a [PPT_cornerBracket](PPT_cornerBracket.STL) file, which is just used to hold the corners of the chamber together while glueing.
 
 
-|       Bill of Materials      |
+       Bill of Materials      
 --------------------------------
 |Part|Description|Quantity|
 -----|------------|-------|
@@ -26,8 +26,7 @@ PPT_HoleCover_Clip    |3D printed PLA/ABS [PPT_HoleCover_Clip.stl](/STL/PPT_Hole
 Plastic Cement        |Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement|<1|
 Matte White Paint     |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
 
-The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or *flat*,
-although matte finishes can typically withstand more cleaning.
+The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or *flat*, although matte finishes can typically withstand more cleaning.
 
 **Note:** If the wall 
 thickness is adjusted, the 3D models and .DXF files must also be modified. This can be done in the text file, [PPTequations.txt](PPTequations.txt), which contains equations
