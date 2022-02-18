@@ -4,7 +4,7 @@ This repository contains 3D models, created in Solidworks, and fabrication files
 sections, two of which provide mounting holes to tether animals. When not in use, the tether holes and slots on the sides may be covered up by a clip-on hole cover. This cover
 can slide from the slot to the hole, covering one at a time.
 
-![alt text](images/PPT.JPG)
+![alt text](/Images/PPT.JPG)
 
 The walls of this chamber are laser cut out of clear 3/16" acrylic sheets, painted matte white where needed, and assembled using plastic cement. The files used on the laser 
 cutters are located in the [DXF](/DXF) directory. To optimize the nesting of parts on as few acrylic sheets as possible, we use an open source software called 
