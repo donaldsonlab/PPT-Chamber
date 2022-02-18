@@ -31,6 +31,6 @@ The brand of acrylic cement is not important, as long as it can hold the acrylic
 
 **Note:** If the wall 
 thickness is adjusted, the 3D models and .DXF files must also be modified. This can be done in the text file, [PPTequations.txt](PPTequations.txt), which contains equations
-used for each Solidworks part. Simply change the "WallThickness" and/or "FloorThickness" to the desired value and rebuild or refresh the part file. This can also be done with the
-other variables in PPTequations.txt if wanting to modify the width, height, or depth of the PPT chamber.
+used for each Solidworks part. Simply change the "WallThickness" and/or "FloorThickness" to the desired value and rebuild or refresh the part files. This can also be done with the
+other variables in PPTequations.txt if wanting to modify the width, height, or depth of the PPT chamber. Changing this file will change dimensions in every part file.
 
