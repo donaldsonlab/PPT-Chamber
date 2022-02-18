@@ -9,7 +9,7 @@ can slide from the slot to the hole, covering one at a time.
 The walls of this chamber are laser cut out of clear 3/16" acrylic sheets, painted matte white where needed, and assembled using plastic cement. The files used on the laser 
 cutters are located in the [DXF](/DXF) directory. To optimize the nesting of parts on as few acrylic sheets as possible, we use an open source software called 
 [Deepnest](https://deepnest.io/). We 3D print the hole cover clips on a Zortrax M200 Plus FDM printer with PLA, ABS, or Z-ULTRAT filament. The .STL file for this is in the 
-[STL](/STL) folder along with a [PPT_cornerBracket](/STL/PPT_cornerBracket.STL) file, which is just used to hold the corners of the chamber together while glueing.
+[STL](/STL) folder along with a [PPT_cornerBracket](/STL/PPT_cornerBracket.STL) file, which is just used to hold the corners of the chamber together while gluing.
 
 
 |       Bill of Materials      |
