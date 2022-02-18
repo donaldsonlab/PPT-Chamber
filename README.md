@@ -7,9 +7,9 @@ can slide from the slot to the hole, covering one at a time.
 ![alt text](images/PPT.JPG)
 
 The walls of this chamber are laser cut out of clear 3/16" acrylic sheets, painted matte white where needed, and assembled using plastic cement. The files used on the laser 
-cutters are located in the [DXF}(dxf) directory. To optimize the nesting of parts on as few acrylic sheets as possible, we use an open source software called 
+cutters are located in the [DXF](/DXF) directory. To optimize the nesting of parts on as few acrylic sheets as possible, we use an open source software called 
 [Deepnest](https://deepnest.io/). We 3D print the hole cover clips on a Zortrax M200 Plus FDM printer with PLA, ABS, or Z-ULTRAT filament. The .STL file for this is in the 
-[STL}(STL) folder along with a [PPT_cornerBracket](PPT_cornerBracket.STL) file, which is just used to hold the corners of the chamber together while glueing.
+[STL](/STL) folder along with a [PPT_cornerBracket](/STL/PPT_cornerBracket.STL) file, which is just used to hold the corners of the chamber together while glueing.
 
 
 |       Bill of Materials      |
@@ -25,6 +25,7 @@ PPT_HoleCover         |Laser cut [PPT_HoleCover.DXF](/DXF/PPT_HoleCover.DXF)    
 PPT_HoleCover_Clip    |3D printed PLA/ABS [PPT_HoleCover_Clip.stl](/STL/PPT_HoleCover_Clip.stl)|2|
 Plastic Cement        |Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement          |<1|
 Matte White Paint     |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
+PPT_CornerBracket     |Optional 3D printed PLA/ABS [PPT_CornerBracket](/STL/PPT_CornerBracket) |4|
 
 The brand of acrylic cement is not important, as long as it can hold the acrylic pieces together. Similarly, the brand of paint is unimportant and can either be *matte* or *flat*, although matte finishes can typically withstand more cleaning.
 
