@@ -16,12 +16,12 @@ cutters are located in the [DXF}(dxf) directory. To optimize the nesting of part
 --------------------------------
 |Part|Description|Quantity|
 -----|------------|-------|
-PPT_Floor             |Laser cut [PPT_Floor.dxf}(/DXF/PPT_Floor.dxf)|1|
-PPT_LongWall          |Laser cut [PPT_LongWall.dxf}(/DXF/PPT_LongWall.dxf)|2|
-PPT_SideWall          |Laser cut [PPT_SideWall.dxf}(/DXF/PPT_SideWall.dxf)|2|
-PPT_InsertGuide_Large |Laser cut [PPT_InsertGuide_Large.dxf}(/DXF/PPT_InsertGuide_Large.dxf)|4|
-PPT_InsertGuide_Small |Laser cut [PPT_InsertGuide_Small.dxf}(/DXF/PPT_InsertGuide_Small.dxf)|4|
-PPT_HoleCover         |Laser cut [PPT_HoleCover.DXF}(/DXF/PPT_HoleCover.DXF)|2|
+PPT_Floor             |Laser cut [PPT_Floor.dxf](/DXF/PPT_Floor.dxf)|1|
+PPT_LongWall          |Laser cut [PPT_LongWall.dxf](/DXF/PPT_LongWall.dxf)|2|
+PPT_SideWall          |Laser cut [PPT_SideWall.dxf](/DXF/PPT_SideWall.dxf)|2|
+PPT_InsertGuide_Large |Laser cut [PPT_InsertGuide_Large.dxf](/DXF/PPT_InsertGuide_Large.dxf)|4|
+PPT_InsertGuide_Small |Laser cut [PPT_InsertGuide_Small.dxf](/DXF/PPT_InsertGuide_Small.dxf)|4|
+PPT_HoleCover         |Laser cut [PPT_HoleCover.DXF](/DXF/PPT_HoleCover.DXF)|2|
 PPT_HoleCover_Clip    |3D printed PLA/ABS [PPT_HoleCover_Clip.stl](/STL/PPT_HoleCover_Clip.stl)|2|
 Plastic Cement        |Plastruct Plastic Weld or IPS Weld-On 3 Acrylic Plastic Cement|<1|
 Matte White Paint     |[Krylon Fusion All-In-One Spray Paint, Matte, White, 12 oz.](https://www.walmart.com/ip/Krylon-Fusion-All-In-One-Spray-Paint-Matte-White-12-oz/678882687)|<1|
