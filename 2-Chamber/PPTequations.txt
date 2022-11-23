@@ -1,0 +1,5 @@
+﻿"Height"= 12in
+"Depth"= 7in
+"WallThickness"= 0.125in
+"FloorThickness"= 0.25in
+"Width" = 30in
